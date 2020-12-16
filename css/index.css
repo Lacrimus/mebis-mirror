@@ -37,11 +37,10 @@ img.icon {
   height: 16px;
 }
 
-img.icon-right {
+img.sicon-right {
   float: right;
 }
 
-footer.fixed-bottom {
-  position: sticky;
+footer.bottom {
   bottom: 0px;
 }
