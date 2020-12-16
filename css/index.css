@@ -1,0 +1,47 @@
+/*Primary color scheme for backgrounds and panels*/
+.color_primary {
+  color:#4c72c8;
+  background-color:#4c72c8
+}
+
+/*Bullet lists*/
+ul.list-squared {
+  list-style-type: square;
+}
+
+p.quote-text {
+  font-style: italic;
+}
+
+.card-header-section {
+  margin-top: 0.8em;
+}
+
+.card-minwidth {
+  width: max-content !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+
+/*Iconic*/
+img.icon {
+  width: 16px;
+  height: 16px;
+}
+
+img.icon-right {
+  float: right;
+}
+
+footer.fixed-bottom {
+  position: sticky;
+  bottom: 0px;
+}
